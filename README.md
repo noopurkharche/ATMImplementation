@@ -20,5 +20,5 @@ What does the program do?
 How to run the program?
  Just type in the following command in your python console
  
->- python atmCode.py
+ '''python python atmCode.py
   
