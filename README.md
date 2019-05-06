@@ -1,5 +1,4 @@
- ATMImplementation
-## ATM Implementation in python
+# ATM Implementation in python
 
 Programing Language Used?
  Python
