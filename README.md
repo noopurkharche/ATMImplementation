@@ -1,5 +1,5 @@
-# ATMImplementation
-ATM Implementation in python
+ ATMImplementation
+## ATM Implementation in python
 
 Programing Language Used?
  Python
@@ -20,5 +20,5 @@ What does the program do?
 How to run the program?
  Just type in the following command in your python console
  
- python atmCode.py
+>- python atmCode.py
   
